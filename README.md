@@ -1,20 +1,5 @@
 # Portfolio — Азамат Турдыбаев
 
-Static site exported from the Portfolio Builder.
-
-## Deploy to GitHub Pages
-
-```bash
-git init
-git add .
-git commit -m "Initial portfolio"
-git branch -M main
-git remote add origin https://github.com/USERNAME/REPO.git
-git push -u origin main
-```
-
-Then go to **Settings → Pages → Source: main** and your portfolio will be live at `https://USERNAME.github.io/REPO`.
-
 ## Files
 
 - `index.html` — main page
