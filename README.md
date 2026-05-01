@@ -1,5 +1,7 @@
 # Portfolio — Азамат Турдыбаев
 
+https://azamat-eric.github.io/portfolio/
+
 ## Files
 
 - `index.html` — main page
